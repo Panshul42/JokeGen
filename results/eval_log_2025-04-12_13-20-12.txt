@@ -1,0 +1,465 @@
+Checkpoint Evaluation Log
+============================================================
+
+📦 epoch1_final_run_3
+✅ Val Loss: 2.5861
+📝 Sample 1 Output:
+Why did the robot go to therapy? to play with the computer.
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. The lawyer asks the lawyer a question and the lawyer says: "I am not particularly proud of my first marriage, but I are proud of my first marriage, with my girlfriend."
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because he was sick.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? The difference between a couple of children and a one to six.
+📝 Sample 5 Output:
+Knock knock... I'm home!
+Donald Sanders Clinton Clinton Clinton Clinton Clinton Clinton Clinton Clinton Clinton Clinton Clinton Clinton Clinton Clinton Clinton Clinton Clinton Clinton Clinton Clinton Clinton
+📝 Sample 6 Output:
+Your momma so...
+A woman who spoke on her phone told me that she was afraid of sex and sex.
+
+(A lot of people make sure they'll hold
+📝 Sample 7 Output:
+Why did the chicken cross the road? Because the kachou's out of a house.
+📝 Sample 8 Output:
+On my way to work this morning, I yelled COW! at a woman riding a bicycle. She gave me the middle finger. told me to fuck off, and...
+------------------------------------------------------------
+📦 epoch1_step1023_mean2.6328_run_3
+✅ Val Loss: 2.5672
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because he said "insert joke."
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar.
+
+A priest walks in and says "Why is everyone looking around for the bartender?"
+
+"Sorry to charge your drink each time," the priest said.
+
+"You know how to eat here?" the priest said.
+
+"No, we can't go to the drinks room."
+
+"
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because he was mad to the neighbors.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? A big one.
+📝 Sample 5 Output:
+Knock knock... A woman is sitting in her bed with her mouth open. She's wearing a diamond ring and a diamond ring and she's got a diamond ring that was stolen from her husband. She's just sitting there thinking about what she's going to say to the person who got her diamond diamond. She's thinking about a friend
+📝 Sample 6 Output:
+Your momma so... A lot of her is her boobs.”
+
+
+” I've been to fuckin' gorondock I'm here,, I'll give
+📝 Sample 7 Output:
+Why did the chicken cross the road? So the dog saw the bird with him.
+📝 Sample 8 Output:
+On my way to work this morning, I yelled COW! at a woman riding a bicycle. She gave me the middle finger. told me to fuck off, and... ...would he give me to me, I said, I don't get any sex at all.
+------------------------------------------------------------
+📦 epoch1_step1023_mean2.6441_run_3
+✅ Val Loss: 2.5363
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because he had a lot of friends
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar.    
+"I'm not interested in a lawyer's protection"         
+"I'll never see a lawyer for, at least, the way she wants to be a lawyer."               
+"
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because he wanted to make money.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? Two.
+📝 Sample 5 Output:
+Knock knock... ...you'll have a lot of people looking over you on you?  
+The man and the woman on the wall say, "You can't walk in the door for a time, because you have to be a new, little man that's up to new, so you'll have the same way over it
+📝 Sample 6 Output:
+Your momma so... the reason.'
+An English man's joke, he's made so many jokes, which he'd make every time, after he saw, it was 'fun
+📝 Sample 7 Output:
+Why did the chicken cross the road? Because he got the farm.
+📝 Sample 8 Output:
+On my way to work this morning, I yelled COW! at a woman riding a bicycle. She gave me the middle finger. told me to fuck off, and... I'm not even I.
+------------------------------------------------------------
+📦 epoch1_step1364_mean2.6382_run_3
+✅ Val Loss: 2.5864
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because he came to the,,sia...
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar.
+
+"Who's the good guy?"
+
+"He's a bad doctor!"
+
+"What did he think he was?"
+
+"He was a good doctor."
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? He just moved him to a town which most of the people were good and well.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? A fucker.
+📝 Sample 5 Output:
+Knock knock...
+A New-S
+
+A lot of money's money in the money-a-to, for people who have to pay to
+📝 Sample 6 Output:
+Your momma so...
+
+I know you're pretty sick...
+📝 Sample 7 Output:
+Why did the chicken cross the road? It got to be two days past the date that the bar was being sold.
+📝 Sample 8 Output:
+On my way to work this morning, I yelled COW! at a woman riding a bicycle. She gave me the middle finger. told me to fuck off, and...
+------------------------------------------------------------
+📦 epoch1_step341_mean2.7147_run_3
+✅ Val Loss: 2.3963
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because she thought the joke was racist and didn't know how to have enough trouble with a walkie-array
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. They are told the bartender is in one of the armpucks and it has the other side. The priest walks into the bar and says, "Is that the joke? Why did you guys call the bar...sickers and all?"
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because he was told the wife got her husband's dog. The brother, it's funny that the husband died?
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb?
+stocking a coffee to the clerk, say the woman
+📝 Sample 5 Output:
+Knock knock...barrinala...remita...this ...this...knock...barrinala...remita...this...knicks...barrinala...remita
+
+📝 Sample 6 Output:
+Your momma so...
+Ahead, out a.
+
+in a word, we're the same.
+
+
+📝 Sample 7 Output:
+Why did the chicken cross the road? So he can get a toilet out of his hands and into a man's kitchen
+off the other night
+
+
+starrboarder.
+
+
+off the other night
+
+starrboarders
+📝 Sample 8 Output:
+On my way to work this morning, I yelled COW! at a woman riding a bicycle. She gave me the middle finger. told me to fuck off, and...bokeman's are good!
+------------------------------------------------------------
+📦 epoch1_step341_mean2.7249_run_3
+✅ Val Loss: 2.4702
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because he got some trouble from a dumb father and a dumb daughter.
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. They're there by their pants. They're just waiting. They're just waiting. The bar bar is open. They're going to be sure they'll be there. So they say, "Hey guys, we're gonna pour some beers. And we'll be starting the first pour." They pour their pour. And
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because he got angry.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? One.
+📝 Sample 5 Output:
+Knock knock...
+
+Harry's mother comes into the kitchen...
+
+"So your father would like you to be my daughter?"
+
+"I'd like you to be my daughter," replied the daughter, a little regretfully.
+
+"Goodbye. You're here, but I'm sure you're just waiting for
+📝 Sample 6 Output:
+Your momma so... He goes to the apartment... He goes to the apartment. And you're there and you're like: Hey, do you know what's between your father and his father? The kitchen... He goes to the apartment... He goes to the apartment. And you're there and you're like: Hey, do you know
+📝 Sample 7 Output:
+Why did the chicken cross the road? It was a light and full of chicken.
+📝 Sample 8 Output:
+On my way to work this morning, I yelled COW! at a woman riding a bicycle. She gave me the middle finger. told me to fuck off, and...
+
+------------------------------------------------------------
+📦 epoch1_step341_mean2.7647_run_3
+✅ Val Loss: 2.5760
+📝 Sample 1 Output:
+Why did the robot go to therapy? because you could hurt him
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. The woman says to the priest, "You know what I have for a man that has a girlfriend." The priest says, "Well, what about a boy?" The woman says, "You know what I have for a boy that has a girlfriend?"
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because he didn't know how to pronounce the name...
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? One.
+📝 Sample 5 Output:
+Knock knock... My friends called me. You are not called. I am not allowed to use your money.
+📝 Sample 6 Output:
+Your momma so... I'm getting a pet! I was waiting to buy a pet. I'm having a problem with my legs. I'm wearing jeans... So I'm getting a pet. My legs are not going to be able to jump up in the chairs anymore. And this problem, so far, has not come back.
+📝 Sample 7 Output:
+Why did the chicken cross the road? Because his legs were not too hot
+📝 Sample 8 Output:
+On my way to work this morning, I yelled COW! at a woman riding a bicycle. She gave me the middle finger. told me to fuck off, and... He got me to stop. I still got a lump on my stomach.
+------------------------------------------------------------
+📦 epoch1_step341_mean2.7683_run_3
+✅ Val Loss: 2.3882
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because they ate the butter and tomato...
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. The bar bartender says, "What's the difference between a lawyer and a lawyer? They don't know how to punch a bar.." The bar bartender says, "If the bar bartender doesn't know how to punch a bar, we can't know how to punch a bar." The bartender walks away and the rest
+📝 Sample 3 Output:
+Why did the homeless man sell his dog?
+
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb?
+📝 Sample 5 Output:
+Knock knock... The neighborhood guy walks up to his neighborhood hole. He comes up to the home he has got to get to, he turns up to see the joke. 
+📝 Sample 6 Output:
+Your momma so...
+📝 Sample 7 Output:
+Why did the chicken cross the road?
+
+📝 Sample 8 Output:
+On my way to work this morning, I yelled COW! at a woman riding a bicycle. She gave me the middle finger. told me to fuck off, and...
+
+It became all "okie ime...me and that, to go to the car!"
+------------------------------------------------------------
+📦 epoch1_step341_mean2.9107_run_3
+✅ Val Loss: 2.4112
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because he wanted to go to the kitchen for a couple of the herne-tarts.
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. The old man gets a big red box of the new, topper, to�ed to the front. There, they take the old woman to a bar. He. ���ing the entire new... he's in the arms of the... paddy.
+📝 Sample 3 Output:
+Why did the homeless man sell his dog?
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb?
+📝 Sample 5 Output:
+Knock knock...
+📝 Sample 6 Output:
+Your momma so...
+📝 Sample 7 Output:
+Why did the chicken cross the road?
+📝 Sample 8 Output:
+On my way to work this morning, I yelled COW! at a woman riding a bicycle. She gave me the middle finger. told me to fuck off, and...
+------------------------------------------------------------
+📦 epoch1_step682_mean2.6101_run_3
+✅ Val Loss: 2.4774
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because he would be like a toy.
+
+
+Warning: My guess ...
+"
+'Wage veteran's supporters are going to be very upset. But then he can't.
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar.
+
+"Do you know the difference between a license and a license?" the lawyer asks.
+
+"Why are you in prison?" said the lawyer.
+
+"Your wife isn't a convict?" asked the lawyer.
+
+"She's a convict!" said the lawyer.
+
+"Ah sorry,
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? It's that he's a jewite now.- Two men in one and two, at least, if you don't.
+
+"I'll be back shortly, if you don
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? Two. 
+"
+*
+*
+
+
+*
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+📝 Sample 5 Output:
+Knock knock... It's nice to see you with my dad...
+
+
+And then you ask me what the new day is!
+📝 Sample 6 Output:
+Your momma so... ...so.. ...too.. ...too.. ...too.. ...too!!" I'm sure don't pay you to click for tips!
+
+EDIT AND COOPLY
+📝 Sample 7 Output:
+Why did the chicken cross the road? Because we used the dog toupee
+A woman stuck in a room to her home, on a few pages to try to get me out of trouble.
+
+I didn't answer her question.
+
+When I was
+📝 Sample 8 Output:
+On my way to work this morning, I yelled COW! at a woman riding a bicycle. She gave me the middle finger. told me to fuck off, and...
+------------------------------------------------------------
+📦 epoch1_step682_mean2.6610_run_3
+✅ Val Loss: 2.5290
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because she didn't want to be a fetishist
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. The lawyer says, "Son, let me see your penis"                        
+
+Doctor 
+
+Doctor
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because his old dog couldn't make a difference.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? Two. - You've been missing your car seat all year around... it's barely down on my line, but I've got no clue what to do anymore... ...:) -
+📝 Sample 5 Output:
+Knock knock... It's time for the bed.’ I don't tell anybody - but no, but I'll go ’’’’’’’’
+📝 Sample 6 Output:
+Your momma so... What's the difference between the ass and the butt?  
+
+A little pebbles.
+📝 Sample 7 Output:
+Why did the chicken cross the road? Because his chicken was in his counter... ”‘‘ ‘‘ ‘‘‘‘‘‘‘‘‘
+📝 Sample 8 Output:
+On my way to work this morning, I yelled COW! at a woman riding a bicycle. She gave me the middle finger. told me to fuck off, and...
+------------------------------------------------------------
+📦 epoch1_step682_mean2.7276_run_3
+✅ Val Loss: 2.5349
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because he was like the "bony" joke for a very serious business business
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. They have some, they're quite drunk and have a very hard time that they're drunk and so close on the bar at some point. They want to know if they're still alive and they say they're a fucking drunk. 
+
+The bartender says, "Well if you're really drunk, your drunk and
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because the old guy couldn't afford a baby son.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? A lot for this one - "Can you hear me tell me why you're waking up?" / / 
+
+"That's not, you'll never hear anywhere else.
+📝 Sample 5 Output:
+Knock knock..., your home you're a lady......
+
+Then you're a girl!
+
+"She's a cunt!"
+
+"So many women want to knock the dog into a pillow."
+
+"You're a girlfriend."
+
+"But the women in the sky were always flying off the wall."
+📝 Sample 6 Output:
+Your momma so... I've got your momma back on the road.
+
+I guess you guys know it's hard to keep a woman out at a job for.
+
+I can't have you on my mommy's girlfriend's school day.
+📝 Sample 7 Output:
+Why did the chicken cross the road? A song and a chicken made sure it had a problem.'I'm gonna screw me out for a friend, too!"
+
+'I'm gonna screw me SO pissed off
+
+'I'll always
+📝 Sample 8 Output:
+On my way to work this morning, I yelled COW! at a woman riding a bicycle. She gave me the middle finger. told me to fuck off, and... I replied, "I've been sitting down for years!"
+------------------------------------------------------------
+📦 epoch2_final_run_3
+✅ Val Loss: 2.5467
+📝 Sample 1 Output:
+Why did the robot go to therapy? because he was tired of being a joke.
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. The bartender asks the one with the bad taste the name and place of the bar. The man replies "Sorry you want to know who it is?" "What do you want to know?"
+
+The bar bartender says, "A priest. He was born on his own."
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? He'd die for my favorite type of bread.
+
+One day his home was burned. He was on the hill.  He heard a bus going away and he came, went and got a light and then he was on the hill. He took a light and came up to her, looked down and fell.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? 2.3
+📝 Sample 5 Output:
+Knock knock... ... and so a knock knock.
+📝 Sample 6 Output:
+Your momma so... What do you do when you've been in a couple of sex to be friends? You say, 'Hmmm.'
+📝 Sample 7 Output:
+Why did the chicken cross the road? Because his wife was on the floor and she came over to his room.
+
+He said "Oh I am going to see what it means."
+
+He started walking up to her and told her "I'm getting a divorce, but I am getting an affair," and he said "I can't be in
+📝 Sample 8 Output:
+On my way to work this morning, I yelled COW! at a woman riding a bicycle. She gave me the middle finger. told me to fuck off, and... I was in a crowd of two, so I got the other.  
+
+"Hey, I'm not too bad. I've got to get to the bar and get your head in a seat.
+------------------------------------------------------------
+📦 epoch2_step1023_mean2.5962_run_3
+✅ Val Loss: 2.5470
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because he'd know that the dog was a big bitch.
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. 
+"He walks up and starts a joke."
+"The joke is to ask a man who the man is who is the most sexual to be a priest. He says, "I think he has a lot of sex with the least sexual." He goes over to the man, says, "A priest,
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? He made his own room.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? One, and a few.
+📝 Sample 5 Output:
+Knock knock... A guy is making sure he has a drink of alcohol before he comes into the town... They're in the old house. The man sits in the room that's only his old home and thinks of a way to go away. A man goes to the bed and opens it to have the drink, but it's too
+📝 Sample 6 Output:
+Your momma so...... ...douger! 
+I'm going to be on her list for my joke at a bar
+📝 Sample 7 Output:
+Why did the chicken cross the road? Because he was really drunk.
+📝 Sample 8 Output:
+On my way to work this morning, I yelled COW! at a woman riding a bicycle. She gave me the middle finger. told me to fuck off, and.... I started yelling "I'll stop to pick up a car, they'll be off down the road!"
+------------------------------------------------------------
+📦 epoch2_step1364_mean2.5689_run_3
+✅ Val Loss: 2.5467
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because he wanted to find a new job and a home.
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. The lawyer and the priest take a drink and all the men walk down to the bar to find a priest and a lawyer arguing. The lawyer asks the doctor and the priest what he's going to say, the priest asks the lawyer and the lawyer says to the lawyer, "Just have an answer" so the lawyer and
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? He was tired of selling his dog.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? What is the average difference between a barber and a man? A couple of times it was in the way of the lamp.
+📝 Sample 5 Output:
+Knock knock... When do you start eating? When we come off.
+📝 Sample 6 Output:
+Your momma so... ...to make you do it... "Look I just wanted to knock you down!"
+📝 Sample 7 Output:
+Why did the chicken cross the road? He was so happy to know about the great American woman...
+
+📝 Sample 8 Output:
+On my way to work this morning, I yelled COW! at a woman riding a bicycle. She gave me the middle finger. told me to fuck off, and... I can't do anything about it.
+------------------------------------------------------------
+
+
+
+
+Sample_outputs.txt:
+✅ Val Loss: 2.6254
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because he was busy trying to raise his brain to have a life.
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because he was going to buy a dog.
+✅ Val Loss: 2.3974
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because he wanted to get his dog out of his house.
+✅ Val Loss: 2.5467
+📝 Sample 1 Output:
+Why did the robot go to therapy? because he was tired of being a joke.
+📝 Sample 7 Output:
+Why did the chicken cross the road? Because he was really drunk.
+📝 Sample 8 Output:
+On my way to work this morning, I yelled COW! at a woman riding a bicycle. She gave me the middle finger. told me to fuck off, and... (mode: I can't do anything about it.)

@@ -1,0 +1,84 @@
+Checkpoint Evaluation Log
+============================================================
+
+📦 epoch1_final_run_3
+✅ Val Loss: 2.7506
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because he was angry at his job
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. The barkeeper says, "What's the difference between a lawyer and a priest?"   
+
+The lawyer,, "A priest is
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? He was a dog, he was like a dog.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? One. One. One. One.
+------------------------------------------------------------
+📦 epoch1_step1023_mean2.6328_run_3
+✅ Val Loss: 2.6254
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because he was busy trying to raise his brain to have a life.
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar.  
+
+"Hello, I'm going to sit in the bar next to you and try to tell you what you're trying to say,"
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because he was going to buy a dog.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? A man in a fish bowl.
+------------------------------------------------------------
+📦 epoch1_step341_mean2.7147_run_3
+✅ Val Loss: 2.4037
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because he had a problem with the kids
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. The bartender asks if they have a favorite drink. The bartender says they're going to have a sweet.
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because he had a heart for his brother.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb?
+------------------------------------------------------------
+📦 epoch1_step341_mean2.7249_run_3
+✅ Val Loss: 2.4810
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because he couldnt ask his father to show him what his bread is really made of
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. They decide to take a drink and then they decide to start a conversation. They start to say the words "quirrrrrrrrrrrrr
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because he was afraid he would lose his dog.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? One.
+------------------------------------------------------------
+📦 epoch1_step341_mean2.7683_run_3
+✅ Val Loss: 2.3974
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because the old guy was a robot.
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. They are tired and are not ready to talk to each other. They are all naked. The lawyer asks the priest if he is going to ask a
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because he wanted to get his dog out of his house.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb?
+------------------------------------------------------------
+📦 epoch1_step682_mean2.6101_run_3
+✅ Val Loss: 2.5051
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because his dog was very angry.
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. They see a boy wearing a suit and a barbeque on the roof. The boy says to the lawyer: "Feel like the boy?" The
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because he didn't want his dog to be gay.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? One? One? One?
+------------------------------------------------------------
+📦 epoch1_step682_mean2.6610_run_3
+✅ Val Loss: 2.5565
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because he's not quite who he thinks he is.
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. A lawyer asks a lawyer, "Why do you want to cross the road?" The lawyer says, "Because I want to eat it."
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because he had no money for his money.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? Never.
+------------------------------------------------------------

@@ -1,0 +1,33 @@
+Checkpoint Evaluation Log
+============================================================
+
+📦 epoch1_final_run_3
+✅ Val Loss: 2.7506
+📝 Sample Output:
+Why did the robot go to therapy? Because his life is a slum.
+------------------------------------------------------------
+📦 epoch1_step1023_mean2.6328_run_3
+✅ Val Loss: 2.6254
+📝 Sample Output:
+Why did the robot go to therapy? Because he was going to stop being a robot.
+------------------------------------------------------------
+📦 epoch1_step341_mean2.7147_run_3
+✅ Val Loss: 2.4037
+📝 Sample Output:
+Why did the robot go to therapy? Because he did not want to give him a dick and a dick to his wife, because he wanted to be on a bed with his girlfriend.
+------------------------------------------------------------
+📦 epoch1_step341_mean2.7683_run_3
+✅ Val Loss: 2.3974
+📝 Sample Output:
+Why did the robot go to therapy? Why did he decide to take a dog and walk it? Because he was too tired to walk his pet at a home, and he didn't know
+------------------------------------------------------------
+📦 epoch1_step682_mean2.6101_run_3
+✅ Val Loss: 2.5051
+📝 Sample Output:
+Why did the robot go to therapy? Because his job was to work in a circus.
+------------------------------------------------------------
+📦 epoch1_step682_mean2.6610_run_3
+✅ Val Loss: 2.5565
+📝 Sample Output:
+Why did the robot go to therapy? Because he was one of the worst of the many things in the world.
+------------------------------------------------------------

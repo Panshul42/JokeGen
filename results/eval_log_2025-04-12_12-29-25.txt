@@ -1,0 +1,15 @@
+Checkpoint Evaluation Log
+============================================================
+
+❌ Failed on epoch1_final_run_3: generate_text() got multiple values for argument 'model'
+------------------------------------------------------------
+❌ Failed on epoch1_step1023_mean2.6328_run_3: generate_text() got multiple values for argument 'model'
+------------------------------------------------------------
+❌ Failed on epoch1_step341_mean2.7147_run_3: generate_text() got multiple values for argument 'model'
+------------------------------------------------------------
+❌ Failed on epoch1_step341_mean2.7683_run_3: generate_text() got multiple values for argument 'model'
+------------------------------------------------------------
+❌ Failed on epoch1_step682_mean2.6101_run_3: generate_text() got multiple values for argument 'model'
+------------------------------------------------------------
+❌ Failed on epoch1_step682_mean2.6610_run_3: generate_text() got multiple values for argument 'model'
+------------------------------------------------------------

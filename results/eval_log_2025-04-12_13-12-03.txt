@@ -1,0 +1,9 @@
+Checkpoint Evaluation Log
+============================================================
+
+❌ Failed on epoch1_final_run_3: generate_text() got an unexpected keyword argument 'tokenizer'
+------------------------------------------------------------
+❌ Failed on epoch1_step1023_mean2.6328_run_3: generate_text() got an unexpected keyword argument 'tokenizer'
+------------------------------------------------------------
+❌ Failed on epoch1_step1023_mean2.6441_run_3: generate_text() got an unexpected keyword argument 'tokenizer'
+------------------------------------------------------------

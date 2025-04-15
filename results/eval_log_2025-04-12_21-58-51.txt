@@ -1,0 +1,33 @@
+Checkpoint Evaluation Log
+============================================================
+
+❌ Failed on epoch1_final_run_3: No package metadata was found for bitsandbytes
+------------------------------------------------------------
+❌ Failed on epoch1_step1023_mean2.6328_run_3: No package metadata was found for bitsandbytes
+------------------------------------------------------------
+❌ Failed on epoch1_step1023_mean2.6441_run_3: No package metadata was found for bitsandbytes
+------------------------------------------------------------
+❌ Failed on epoch1_step1364_mean2.6382_run_3: No package metadata was found for bitsandbytes
+------------------------------------------------------------
+❌ Failed on epoch1_step341_mean2.7147_run_3: No package metadata was found for bitsandbytes
+------------------------------------------------------------
+❌ Failed on epoch1_step341_mean2.7249_run_3: No package metadata was found for bitsandbytes
+------------------------------------------------------------
+❌ Failed on epoch1_step341_mean2.7647_run_3: No package metadata was found for bitsandbytes
+------------------------------------------------------------
+❌ Failed on epoch1_step341_mean2.7683_run_3: No package metadata was found for bitsandbytes
+------------------------------------------------------------
+❌ Failed on epoch1_step341_mean2.9107_run_3: No package metadata was found for bitsandbytes
+------------------------------------------------------------
+❌ Failed on epoch1_step682_mean2.6101_run_3: No package metadata was found for bitsandbytes
+------------------------------------------------------------
+❌ Failed on epoch1_step682_mean2.6610_run_3: No package metadata was found for bitsandbytes
+------------------------------------------------------------
+❌ Failed on epoch1_step682_mean2.7276_run_3: No package metadata was found for bitsandbytes
+------------------------------------------------------------
+❌ Failed on epoch2_final_run_3: No package metadata was found for bitsandbytes
+------------------------------------------------------------
+❌ Failed on epoch2_step1023_mean2.5962_run_3: No package metadata was found for bitsandbytes
+------------------------------------------------------------
+❌ Failed on epoch2_step1364_mean2.5689_run_3: No package metadata was found for bitsandbytes
+------------------------------------------------------------

@@ -1,0 +1,46 @@
+Checkpoint Evaluation Log
+============================================================
+
+📦 epoch1_final_run_3
+✅ Val Loss: 2.6376
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because it said he had an other to help him a day later.
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. They were sitting by the bar where they're sitting in a booth with the bartender. The guy who has been drinking up and giving off this music has been playing his piano to me with a sense of tone and all it says is "Just the two of me, a little bit joke, but just for a little bit
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because he was homeless.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? 
+
+The 
+
+* 
+
+* 
+
+* **
+
+* *
+
+* **
+
+* **
+
+* **
+
+* **
+
+* **
+
+* **
+
+* **
+
+* **
+
+* **
+
+* **
+
+*
+------------------------------------------------------------

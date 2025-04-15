@@ -1,0 +1,44 @@
+Checkpoint Evaluation Log
+============================================================
+
+📦 epoch1_final_run_3
+✅ Val Loss: 2.5861
+📝 Sample 1 Output:
+Why did the robot go to therapy? to help a friend's family? A good thing!
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. The lawyer says "The joke is up, what's the difference?" The lawyer says "What's the difference?"
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? It's because he had a story about the snow storm.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? Two, and all of them are dead.
+------------------------------------------------------------
+📦 epoch1_step1023_mean2.6328_run_3
+✅ Val Loss: 2.5672
+📝 Sample 1 Output:
+Why did the robot go to therapy? He didn't see anything he couldn't see.
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. The bar and the rabbi are in the room, the bartender has to cut it off.
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? Because he didn't trust his neighbors.
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb? None, one is pretty much on.
+------------------------------------------------------------
+📦 epoch1_step1023_mean2.6441_run_3
+✅ Val Loss: 2.5363
+📝 Sample 1 Output:
+Why did the robot go to therapy? Because he was always too busy to screw up a woman.
+📝 Sample 2 Output:
+Two lawyers and a priest walk into a bar. The lawyer says, "You don't have a joke." A lawyer jokes. "Well, I'd like to have you out of there."
+
+"What's the difference?"
+
+"Your jokes are a joke".
+
+"What's the difference?", asks the lawyer.
+
+"I don't
+📝 Sample 3 Output:
+Why did the homeless man sell his dog? "It's a cheap way of making money."
+📝 Sample 4 Output:
+How many incels does it take to screw in a light bulb?
+------------------------------------------------------------
