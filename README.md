@@ -1,12 +1,10 @@
-# HumorAI: Computational Humor Generation and Classification
+# JokeGen: Computational Humor Generation and Classification
 
 ## Project Overview
-HumorAI is a computational humor project that leverages transformer architectures for both joke generation and humor classification. The project consists of two main components:
+JokeGen is a computational humor project that leverages transformer architectures for both joke generation and humor classification. The project consists of two main components:
 
-1. **Joke Generator**: A fine-tuned GPT-2-Medium model that generates humorous text based on prompts
+1. **Joke Generator**: A fine-tuned GPT-2-Medium model that completes or writes jokes.
 2. **Humor Classifier**: A binary classification model that determines whether a given text is funny or not
-
-This project demonstrates advanced NLP techniques, model optimization, and hyperparameter tuning for creating AI systems that can understand and generate humor.
 
 ## Data Sources
 - **Joke Generation**: Combined dataset of ~400,000 jokes from Reddit and other sources
@@ -47,8 +45,10 @@ This project demonstrates advanced NLP techniques, model optimization, and hyper
 
 ## Results
 
+All training was performed on an Nvidia RTX 4090. Average training time was under five minutes.
+
 ### Joke Generator
-- Achieved validation loss of < 2.35
+- Best validation loss achieved was 2.27.
 - Capable of generating contextually coherent joke completions from prompts
 - Sample outputs:
 
@@ -72,6 +72,7 @@ See `requirements.txt` for full dependencies. Core requirements include:
 - Datasets
 - Optuna
 - BitsAndBytes
+- Accelerate
 
 ## Future Work
 - Explore larger model architectures for improved generation quality
